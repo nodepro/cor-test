@@ -1,7 +1,10 @@
 
+<<<<<<< HEAD
 
 1. MOTIVATION
 
+=======
+>>>>>>> 121d04bf61fea63fa7fb030d9af79d5372377af0
 Features a Spring-managed middle tier with iBATIS Database Layer as data access
 strategy, in combination with Spring's transaction and DAO abstractions.
 Can work with local JDBC transactions or JTA, with the latter on two databases.
