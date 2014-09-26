@@ -1,20 +1,5 @@
 
-<<<<<<< HEAD
 
-1. MOTIVATION
-
-=======
->>>>>>> 121d04bf61fea63fa7fb030d9af79d5372377af0
-Features a Spring-managed middle tier with iBATIS Database Layer as data access
-strategy, in combination with Spring's transaction and DAO abstractions.
-Can work with local JDBC transactions or JTA, with the latter on two databases.
-Uses the same data model and demo contents as the original JPetStore.
-See the context definitions "WEB-INF/dataAccessContext-local.xml" respectively
-"WEB-INF/dataAccessContext-jta.xml" for details.
-
-Offers two alternative web tier implementations with the same user interface:
-one based on Spring's web MVC, and one based on Struts 1.2. The latter is close
-to the original JPetStore but reworked for JSTL, to make the JSP implementations
 as comparable as possible. See "WEB-INF/web.xml", "WEB-INF/petstore-servlet.xml",
 and "WEB-INF/struts-config.xml" for details.
 
