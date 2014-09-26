@@ -1,12 +1,3 @@
-=========================================
-== Spring JPetStore sample application ==
-=========================================
-
-@author Juergen Hoeller
-Based on Clinton Begin's JPetStore (http://www.ibatis.com).
-
-
-1. MOTIVATION
 
 Features a Spring-managed middle tier with iBATIS Database Layer as data access
 strategy, in combination with Spring's transaction and DAO abstractions.
