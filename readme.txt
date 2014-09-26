@@ -1,9 +1,3 @@
-=========================================
-== Spring JPetStore sample application ==
-=========================================
-
-@author Juergen Hoeller
-Based on Clinton Begin's JPetStore (http://www.ibatis.com).
 
 
 1. MOTIVATION
